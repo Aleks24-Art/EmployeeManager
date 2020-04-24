@@ -1,0 +1,5 @@
+# Project exclude paths
+.idea/
+/target/
+src/main/resources/db-connection.properties
+JDBCApp.iml
